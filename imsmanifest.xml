@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_619weC14bbD_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Bài kiểm tra kiến thức Hóa 11 - Bài 2</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Bài_kiểm_tra_kiến_thức_Hóa_11_-_Bài_2_ORG">
+    <organization identifier="Bài_kiểm_tra_kiến_thức_Hóa_11_-_Bài_2_ORG">
+      <title>Bài kiểm tra kiến thức Hóa 11 - Bài 2</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__619weC14bbD_course_id_RES">
+        <title>Untitled1</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__619weC14bbD_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5oNMg2PazRh_80_DX1440_DY1440.swf" />
+      <file href="mobile/5oNMg2PazRh_80_DX1440_DY1440_CX1299_CY648.png" />
+      <file href="story_content/6pongl9P7kW_80_DX704_DY704.swf" />
+      <file href="mobile/6pongl9P7kW_80_DX704_DY704_CX486_CY610.png" />
+      <file href="story_content/6TQ0W6Fc5GZ_80_DX992_DY992.swf" />
+      <file href="mobile/6TQ0W6Fc5GZ_80_DX992_DY992_CX921_CY721.png" />
+      <file href="story_content/6lck85lT6ac_44100_48_0.mp3" />
+      <file href="story_content/66uXcqWBOXm_80_P_0_166_480_314_DX372_DY372.swf" />
+      <file href="mobile/66uXcqWBOXm_80_P_0_166_480_314_DX372_DY372_CX205_CY134.gif" />
+      <file href="story_content/5ustwkQedp8_44100_48_0.mp3" />
+      <file href="story_content/6h4sU2hnvmj_80_DX192_DY192.swf" />
+      <file href="mobile/6h4sU2hnvmj_80_DX192_DY192_CX193_CY193.gif" />
+      <file href="story_content/5o50AWAizXP_80_DX1008_DY1008.swf" />
+      <file href="mobile/5o50AWAizXP_80_DX1008_DY1008_CX1057_CY604.png" />
+      <file href="story_content/61sUVjY8akN_80_DX1004_DY1004.swf" />
+      <file href="mobile/61sUVjY8akN_80_DX1004_DY1004_CX835_CY557.png" />
+      <file href="story_content/5hqySgvRltC_80_DX1006_DY1006.swf" />
+      <file href="mobile/5hqySgvRltC_80_DX1006_DY1006_CX695_CY463.png" />
+      <file href="story_content/6RN4e4vwpZx_80_DX1004_DY1004.swf" />
+      <file href="mobile/6RN4e4vwpZx_80_DX1004_DY1004_CX861_CY574.png" />
+      <file href="story_content/6aRpc4DtwEX_80_DX1004_DY1004.swf" />
+      <file href="mobile/6aRpc4DtwEX_80_DX1004_DY1004_CX1053_CY602.png" />
+      <file href="story_content/5vY6F9D9O7j_80_DX1004_DY1004.swf" />
+      <file href="mobile/5vY6F9D9O7j_80_DX1004_DY1004_CX1053_CY703.png" />
+      <file href="story_content/5u21rKJtkFN_80_DX1008_DY1008.swf" />
+      <file href="mobile/5u21rKJtkFN_80_DX1008_DY1008_CX1057_CY595.png" />
+      <file href="story_content/6TXPC2SH0dm_80_DX1008_DY1008.swf" />
+      <file href="mobile/6TXPC2SH0dm_80_DX1008_DY1008_CX1025_CY770.png" />
+      <file href="story_content/5s59Rdd48p1_80_DX1008_DY1008.swf" />
+      <file href="mobile/5s59Rdd48p1_80_DX1008_DY1008_CX1057_CY740.png" />
+      <file href="story_content/5seESmsjYDe_80_DX464_DY464.swf" />
+      <file href="mobile/5seESmsjYDe_80_DX464_DY464_CX332_CY298.gif" />
+      <file href="story_content/67cp8FBGCBB_80_DX446_DY446.swf" />
+      <file href="mobile/67cp8FBGCBB_80_DX446_DY446_CX220_CY223.gif" />
+      <file href="story_content/6BL1Fe6Be1P_80_DX416_DY416.swf" />
+      <file href="mobile/6BL1Fe6Be1P_80_DX416_DY416_CX320_CY270.gif" />
+      <file href="meta.xml" />
+      <file href="story_content/FontFactory.swf" />
+      <file href="story_content/fonts.swf" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/user.js" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/slides/6qTKTKxqwn9.swf" />
+      <file href="story_content/slides/6li7qhkdiQb.swf" />
+      <file href="story_content/data.swf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6li7qhkdiQb.js" />
+      <file href="html5/data/js/6qTKTKxqwn9.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="story_flash.html" />
+      <file href="story_content/story.js" />
+      <file href="story_content/blank.html" />
+      <file href="index_lms.html" />
+      <file href="index_lms_flash.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/scormdriver.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
